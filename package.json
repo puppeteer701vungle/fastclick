@@ -26,7 +26,7 @@
   "main": "lib/fastclick.js",
   "repository": {
     "type": "git",
-    "url": "git://github.com/ftlabs/fastclick.git"
+    "url": "git://github.com/puppeteer701vungle/fastclick"
   },
   "keywords": [
     "fastclick",
@@ -45,5 +45,5 @@
   "implements": [
     "CommonJS/Modules/1.0"
   ],
-  "homepage": "https://github.com/ftlabs/fastclick"
+  "homepage": "https://github.com/puppeteer701vungle/fastclick"
 }
